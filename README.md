@@ -1,4 +1,4 @@
-# Hi there, I'm Tinku 👋
+# Hi there, I'm Tinku Rajput👋
 
 ## Skills:
 
