@@ -45,7 +45,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/https://www.linkedin.com/in/tinku258/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/https://www.linkedin.com/in/tinku258/](https://www.linkedin.com/in/tinku258/))
 </p>
 
 
